@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EKIZAMANI
-- 👀 I’m interested in databases
-- 🌱 I’m currently learning php
+- 👀 I’m interested in Web & Mobile Development
+- 🌱 I’m currently learning Api and Server Configuration
 - 💞️ I’m looking to collaborate on sturtup
 - 📫 How to reach me u can ask me
 
